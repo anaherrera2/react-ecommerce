@@ -1,0 +1,11 @@
+{
+    "smallText": "Hamburguesa",
+    "midText": "Hamburguesa",
+    "largeText": "Burger",
+    "image": "https://www.pngplay.com/wp-content/uploads/2/Burger-Transparent-Background.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit, nisl sollicitudin fermentum donec velit fames.",
+    "product": "Hamburguesa",
+    "buttonText": "Ordena ahora",
+    "slug": "hamburguesa",
+    "price": 200
+}

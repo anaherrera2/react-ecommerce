@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "Hamburguesa",
+        "image": "https://www.pngplay.com/wp-content/uploads/2/Burger-Transparent-Background.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit, nisl sollicitudin fermentum donec velit fames.",
+        "slug": "Hamburguesa",
+        "price": 200,
+        "choices":["Con queso", "Sin queso", "Con tocino"]
+    },
+    {
+        "id": 2,
+        "name": "Papas a la francesa",
+        "image": "https://www.pngplay.com/wp-content/uploads/9/French-Fries-Download-Free-PNG.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit, nisl sollicitudin fermentum donec velit fames.",
+        "slug": "Papas",
+        "price": 50,
+        "choices":["Con queso", "Cin queso", "Con tocino"]
+    },
+    {
+        "id": 3,
+        "name": "Soda",
+        "image": "https://www.pngplay.com/wp-content/uploads/9/Soda-PNG-Free-File-Download.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit, nisl sollicitudin fermentum donec velit fames.",
+        "slug": "Soda",
+        "price": 20,
+        "choices":["Agua", "Coca regular", "Coca Light"]
+    },
+    {
+        "id": 4,
+        "name": "Malteada",
+        "image": "https://www.pngplay.com/wp-content/uploads/9/Milkshake-Free-Picture-PNG.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit, nisl sollicitudin fermentum donec velit fames.",
+        "slug": "Malteada",
+        "price": 50,
+        "choices":["Chocolate", "Fresa", "Vainilla"]
+    },
+    {
+        "id": 5,
+        "name": "Extras",
+        "image": "https://www.pngplay.com/wp-content/uploads/9/Green-Chili-Free-PNG.png",
+        "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit, nisl sollicitudin fermentum donec velit fames.",
+        "slug": "Extras",
+        "price": 10,
+        "choices":["Aderezo", "Jalapeños", "Pepinillos"]
+    }
+    
+]
